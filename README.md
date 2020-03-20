@@ -1,4 +1,4 @@
-# automatic-feature-design-for-regression
+## automatic-feature-design-for-regression
 
 The program Galileo'sRamp.py illustrates how the best possible features for a regression scenario can automatically be designed, here in the case of a polynomial basis. 
 The code includes functions to determine the features or weights and to calculate testing errors. Those are used to apply a "leave one out 6-fold cross validation" algorithm. 
